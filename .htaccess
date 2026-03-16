@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /robi.lims/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /robi.lims/index.php [L]
+

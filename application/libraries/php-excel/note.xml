@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	<user>
+		<id>2010380</id>
+		<name>Hosne Jahan</name>
+		<email>hosne.jahan@thecitybank.com</email>
+		<branch>Feni Branch</branch>
+	</user>
+	<user>
+		<id>2013944</id>
+		<name>Md. Gawrab Zaman</name>
+		<email>gawrab.zaman@thecitybank.com</email>
+		<branch>Banani Complex Chittagong</branch>
+	</user>
+</users>
